@@ -1,0 +1,31 @@
+"Source:","C:\Users\asher\KiCAD\MP3_Player\mp3_player.kicad_sch"
+"Date:","10/24/2024 1:10:53 PM"
+"Tool:","Eeschema (6.0.8)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","10"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Category","DK_Datasheet_Link","DK_Detail_Page","Description","Digi-Key_PN","Family","Field4","MPN","Manufacturer","Status"
+"","","J1","CONN_02PTH2","SparkFun-Connectors:CONN_02PTH2","Connectors:1X02_BIG","","","","","","","","XXX-00000","","",""
+"","","J2","AUDIO_JACK_TRRSSMD_RA","SparkFun-Connectors:AUDIO_JACK_TRRSSMD_RA","Connectors:AUDIO_JACK_3.5MM_TRRS_SMD_RA","","","","","","","","CONN-10676","","",""
+"","","J3","CONN_02PTH2","SparkFun-Connectors:CONN_02PTH2","Connectors:1X02_BIG","","","","","","","","XXX-00000","","",""
+"","","R1","1k","Device:R","CPF0805B1K0E1:RESC2012X65N","~","","","","","","","","","",""
+"","","R2","1k","Device:R","CPF0805B1K0E1:RESC2012X65N","~","","","","","","","","","",""
+"","","R3","33k","Device:R","RT0603FRD0733KL:RESC1608X55N","~","","","","","","","","","",""
+"","","S1","1825910-6","dk_Tactile-Switches:1825910-6","digikey-footprints:Switch_Tactile_THT_6x6mm","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","Switches","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536","SWITCH TACTILE SPST-NO 0.05A 24V","450-1650-ND","Tactile Switches","","1825910-6","TE Connectivity ALCOSWITCH Switches","Active"
+"","","S2","1825910-6","dk_Tactile-Switches:1825910-6","digikey-footprints:Switch_Tactile_THT_6x6mm","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","Switches","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536","SWITCH TACTILE SPST-NO 0.05A 24V","450-1650-ND","Tactile Switches","","1825910-6","TE Connectivity ALCOSWITCH Switches","Active"
+"","","S3","1825910-6","dk_Tactile-Switches:1825910-6","digikey-footprints:Switch_Tactile_THT_6x6mm","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","Switches","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536","SWITCH TACTILE SPST-NO 0.05A 24V","450-1650-ND","Tactile Switches","","1825910-6","TE Connectivity ALCOSWITCH Switches","Active"
+"","","U1","DFPLAYER_MINI","DFRobot:DFPLAYER_MINI","DF_player:DF_PlayerMini","","","","","","","","","","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Category","DK_Datasheet_Link","DK_Detail_Page","Description","Digi-Key_PN","Family","Field4","MPN","Manufacturer","Status"
+"1","2","J1, J3","CONN_02PTH2","SparkFun-Connectors:CONN_02PTH2","Connectors:1X02_BIG","","","","","","","","XXX-00000","","",""
+"2","1","J2","AUDIO_JACK_TRRSSMD_RA","SparkFun-Connectors:AUDIO_JACK_TRRSSMD_RA","Connectors:AUDIO_JACK_3.5MM_TRRS_SMD_RA","","","","","","","","CONN-10676","","",""
+"3","2","R1, R2","1k","Device:R","CPF0805B1K0E1:RESC2012X65N","~","","","","","","","","","",""
+"4","1","R3","33k","Device:R","RT0603FRD0733KL:RESC1608X55N","~","","","","","","","","","",""
+"5","3","S1, S2, S3","1825910-6","dk_Tactile-Switches:1825910-6","digikey-footprints:Switch_Tactile_THT_6x6mm","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","Switches","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English","/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536","SWITCH TACTILE SPST-NO 0.05A 24V","450-1650-ND","Tactile Switches","","1825910-6","TE Connectivity ALCOSWITCH Switches","Active"
+"6","1","U1","DFPLAYER_MINI","DFRobot:DFPLAYER_MINI","DF_player:DF_PlayerMini","","","","","","","","","","",""

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "CPF0805B1K0E1")(type "KiCad")(uri "${KIPRJMOD}/CPF0805B1K0E1")(options "")(descr ""))
+  (lib (name "RT0603FRD0733KL")(type "KiCad")(uri "${KIPRJMOD}/RT0603FRD0733KL")(options "")(descr ""))
+)
